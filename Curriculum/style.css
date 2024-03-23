@@ -1,0 +1,86 @@
+h1 {
+    text-align: justify;
+    background-color: rgb(187, 184, 184);
+    border-radius: 3%;
+    width: 15%;
+}
+
+#imagen {
+    
+}
+
+#ocupacion {
+    text-align: justify;
+    background-color: rgb(187, 184, 184);
+    border-radius: 3%;
+    width: 15%;
+}
+
+#perfil {
+    text-align: justify;
+    background-color: rgb(159, 153, 153);
+    border-radius: 3%;
+    width: 10%;
+}
+
+#contacto {
+    text-align: justify;
+    background-color: rgb(188, 184, 184);
+    border-radius: 3%;
+    width: 25%;
+}
+
+#perfil {
+    text-align: justify;
+    background-color: rgb(188, 185, 185);
+    border-radius: 3%;
+}
+
+#contacto {
+    text-align: justify;
+    background-color: rgb(187, 184, 184);
+    border-radius: 3%;
+}
+
+#pasatiempos {
+    text-align: justify;
+    background-color: rgb(178, 176, 176);
+    border-radius: 3%;
+    width: 10%;
+}
+
+#idiomas {
+    text-align: justify;
+    background-color: rgb(187, 184, 184);
+    border-radius: 3%;
+    width: 10%;
+}
+
+#presentacion {
+    text-align: justify;
+    background-color: rgb(187, 184, 184);
+    border-radius: 3%;
+    width: 30%;
+}
+
+#educacion {
+    text-align: justify;
+    background-color: rgb(187, 184, 184);
+    border-radius: 3%;
+    width: 20%;
+}
+
+
+#habilidades {
+    text-align: justify;
+    background-color: rgb(187, 184, 184);
+    border-radius: 3%;
+    width: 40%;
+}
+
+#capacidades {
+    text-align: justify;
+    background-color: rgb(187, 184, 184);
+    border-radius: 3%;
+    width: 10%;
+}
